@@ -22,3 +22,10 @@
 - Easier navigation  
 - Clear and organized content  
 - More professional website
+
+## Project Participants
+
+- زياد إبراهيم عبد اللطيف عراقيب  
+- مصطفى أحمد أبو اليزيد الصعيدي  
+- محمد محمد رمضان شاهين 
+
