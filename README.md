@@ -15,7 +15,7 @@
 - Clear and readable text  
 - All content placed in clear sections  
 - Fewer clicks needed to access information  
-- New pages added (Contact Us, Student Services)
+- New pages added (Contact Us)
 
 ## Conclusion
 - Better usability and user experience  
